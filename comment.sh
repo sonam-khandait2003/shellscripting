@@ -3,6 +3,10 @@
 # single line comment
 
 
-<< multiline comment 
+: '
+    multiline comment 
 ... This file for comment 
 ... This is made for prectice purpuse
+'
+
+echo "Script is working"
